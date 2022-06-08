@@ -1,2 +1,2 @@
 # car-wash
-trabajo grupal n°1
+trabajo n°1
